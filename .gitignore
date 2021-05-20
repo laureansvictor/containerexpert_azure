@@ -1,0 +1,5 @@
+*.pub
+mitsu
+*.tfstate
+*.tfstate.backup
+.terraform/*
